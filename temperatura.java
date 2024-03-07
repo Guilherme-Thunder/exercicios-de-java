@@ -1,3 +1,4 @@
+/* conversor de Celsius para Fahrenheit, Kelvin, Rankine e Réaumur */
 import java.util.Scanner;
 
 public class temperatura {
