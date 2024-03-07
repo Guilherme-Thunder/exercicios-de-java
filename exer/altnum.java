@@ -18,6 +18,8 @@ public class altnum {
         for (int i = 0 ; i <= 10 ; i++) {
             System.out.println("Digite a altura: ");
             ler = scan.nextLine();
+            
         }
     }
 }
+/* não terminado */
